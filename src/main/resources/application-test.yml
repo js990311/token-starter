@@ -1,0 +1,4 @@
+jwt:
+  secret-key: 2D4nHTKcWRmpMJAvAgl1eSq4jWtfv0mdLK9BEHmMSeQ=
+  access-token-expiration: 3600000
+  refersh-token-expiration: 604800000
