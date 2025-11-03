@@ -1,1 +1,1 @@
-com.rejs.jwt.JwtAutoConfiguration
+com.rejs.token_starter.config.JwtAutoConfiguration
